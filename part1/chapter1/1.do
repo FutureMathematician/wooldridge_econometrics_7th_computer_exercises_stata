@@ -10,3 +10,5 @@ dis 5.9*8*260 // if a person works 8 hours a day, 260 days a year
 *1976 cpi 56.9
 *2019 cpi 255.657
 dis 12272*(255.657/56.9) // 55139.239$/year, pretty great! I can afford a new iphone every year!
+
+tabulate female //274 male, 252 female
