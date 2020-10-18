@@ -1,4 +1,5 @@
-# wooldridge_econometrics_7th_computer_exercises_solution
+# Wooldridge Econometrics 7th Stata
+### Introductury Econometrics A Modern Approach
 
 my own solution using stata
 
